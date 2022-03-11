@@ -5,7 +5,7 @@
 }
 
 :root {
-	--text-color: #00aa00;
+	--text-color: #53EEE8;
 }
 
 body {
@@ -42,15 +42,6 @@ a {
 	display: flex;
 	flex-direction: column;
 	height: 70v;
-}
-
-.hidden {
-	display: none;
-}
-
-.wb-body {
-	background: #111;
-	padding: 20px;
 }
 
 nav {
